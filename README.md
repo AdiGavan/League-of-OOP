@@ -1,5 +1,7 @@
 "Copyright [2017] Gavan Adrian-George, 324CA"
+
 Nume, prenume: Gavan, Adrian-George
+
 Grupa, seria: 324CA
 
 Tema 1 - League of OOP
